@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "NextJS Pro Starter",
     images: [
       {
-        url: "/preview-image.png",
+        url: "/preview-image.jpg",
         width: 1200,
         height: 630,
         alt: "NextJS Pro Starter Template Preview",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     description:
       "A modern, production-ready starter template built with Next.js 15, Tailwind CSS, TypeScript, and ShadCN/UI components.",
     creator: "@vinodjangid07",
-    images: ["/preview-image.png"],
+    images: ["/preview-image.jpg"],
   },
   robots: {
     index: true,
