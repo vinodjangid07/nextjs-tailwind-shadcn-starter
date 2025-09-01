@@ -37,7 +37,7 @@ export default function Footer() {
                 <Github className="h-6 w-6" />
               </Link>
               <Link
-                href="https://twitter.com/vinodjangid07"
+                href="https://twitter.com/Vinod_Jangid07"
                 className="text-white/60 hover:text-white transition-all duration-300 hover:scale-110"
               >
                 <span className="sr-only">Twitter</span>
